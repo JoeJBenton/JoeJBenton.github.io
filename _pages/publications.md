@@ -15,11 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Publications
+### Publications
 
 [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _arXiv preprint, arXiv:2205.14987_
 
 
-## Talks
+### Talks
 
 Some talks will go here
