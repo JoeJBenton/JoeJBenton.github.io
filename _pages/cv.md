@@ -24,7 +24,7 @@ Thesis topic: Activated Random Walks, supervised by Perla Sousi
 ## Research Experience
 
 **Research Assistant**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(Summer 2021)_\
-_Centre for Human-Compatible Artificial Intelligence, University of California Berkeley_\
+_Center for Human-Compatible Artificial Intelligence, University of California Berkeley_\
 Supervisor: Michael Dennis\
 Built on the PAIRED algorithm for unsupervised environment design proposed by Dennis et al. (2020) to incorporate human feedback to reduce the space of environments and so improve training speed.
 
