@@ -9,27 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-li {list-style-type: none;}
-
 ### EDUCATION
 
-* **Department of Statistics, University of Oxford** »»» 2021 -- Present\
-* _DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
-* First project: Denoising Diffusion Models on Arbitrary State Spaces, supervised by Arnaud Doucet and George Deligiannidis\
-* Second project: Large width/depth analysis of structured neural networks, supervised by Fran¸cois Caron
+**Department of Statistics, University of Oxford** »»» 2021 -- Present\
+_DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
+First project: Denoising Diffusion Models on Arbitrary State Spaces, supervised by Arnaud Doucet and George Deligiannidis\
+Second project: Large width/depth analysis of structured neural networks, supervised by Fran¸cois Caron
 
-* **Trinity College, University of Cambridge**       -> _(2017 - 2021)_\
-* _BA with MMath in Mathematics_\
-* Graduated with a Distinction (6th out of c. 250 in year)\
-* Thesis topic: Activated Random Walks, supervised by Perla Sousi\
-* Fourth year courses: Advanced Probability, Topics in Statistical Theory, Percolation, Elliptic Curves, Local Fields, Stochastic Differential Equations, Random Planar Geometry
+**Trinity College, University of Cambridge**       -> _(2017 - 2021)_\
+_BA with MMath in Mathematics_\
+Graduated with a Distinction (6th out of c. 250 in year)\
+Thesis topic: Activated Random Walks, supervised by Perla Sousi\
+Fourth year courses: Advanced Probability, Topics in Statistical Theory, Percolation, Elliptic Curves, Local Fields, Stochastic Differential Equations, Random Planar Geometry
 
 ### RESEARCH EXPERIENCE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Assistant**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Centre for Human-Compatible Artificial Intelligence, University of California Berkeley_\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Michael Dennis\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Built on the PAIRED algorithm for unsupervised environment design proposed by Dennis et al. (2020) to incorporate human feedback to reduce the space of environments and so improve training speed.
+**Research Assistant**\
+_Centre for Human-Compatible Artificial Intelligence, University of California Berkeley_\
+Supervisor: Michael Dennis\
+Built on the PAIRED algorithm for unsupervised environment design proposed by Dennis et al. (2020) to incorporate human feedback to reduce the space of environments and so improve training speed.
 
 **Research Assistant**\
 _Department of Pure Mathematics and Mathematical Statistics, University of Cambridge_\
