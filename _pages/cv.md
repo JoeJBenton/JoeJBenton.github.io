@@ -14,7 +14,7 @@ redirect_from:
 **Department of Statistics, University of Oxford**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2021 - Present)_\
 _DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
 First project: _Denoising Diffusion Models on Arbitrary State Spaces_, supervised by Arnaud Doucet and George Deligiannidis\
-Second project: _Infinite-width limits of neural networks_, supervised by Fran¸ ¸ ¸cois Caron
+Second project: _Infinite-width limits of neural networks_, supervised by Fran\c{c}ois Caron
 
 **Trinity College, University of Cambridge**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2017 - 2021)_\
 _BA with MMath in Mathematics_\
