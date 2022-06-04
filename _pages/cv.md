@@ -11,12 +11,12 @@ redirect_from:
 
 ### EDUCATION
 
-**Department of Statistics, University of Oxford**\
+**Department of Statistics, University of Oxford** (2021 - Present)\
 _DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
 First project: Denoising Diffusion Models on Arbitrary State Spaces, supervised by Arnaud Doucet and George Deligiannidis\
 Second project: Large width/depth analysis of structured neural networks, supervised by Fran¸cois Caron
 
-**Trinity College, University of Cambridge**\
+**Trinity College, University of Cambridge** (2017 - 2021)\
 _BA with MMath in Mathematics_\
 Graduated with a Distinction (6th out of c. 250 in year)\
 Thesis topic: Activated Random Walks, supervised by Perla Sousi\
