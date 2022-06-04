@@ -19,7 +19,7 @@ Second project: _Infinite-width limits of neural networks_, supervised by Franç
 **Trinity College, University of Cambridge**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2017 - 2021)_\
 _BA with MMath in Mathematics_\
 Graduated with a Distinction (6th out of c. 250 in year)\
-Thesis topic: Activated Random Walks, supervised by Perla Sousi\
+Thesis topic: Activated Random Walks, supervised by Perla Sousi
 
 ## Research Experience
 
@@ -39,13 +39,13 @@ produce more direct computations of intersection numbers on the projective plane
 **Senior Scholarship, Trinity College**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2018 - 2020)_\
 For exceptional first year exam results, reawarded after second year
 
-**International Mathematics Olympiad**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2014 - 2017)_\
+**International Mathematics Olympiad**\
 Gold, placing 7th out of 615 competitors in [2017](https://www.imo-official.org/participant_r.aspx?id=25080), Silver in [2014](https://www.imo-official.org/participant_r.aspx?id=25080), [2015](https://www.imo-official.org/participant_r.aspx?id=25080), [2016](https://www.imo-official.org/participant_r.aspx?id=25080)
 
-**International Olympiad in Informatics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2015 - 2017)_\
+**International Olympiad in Informatics**\
 Gold, placing 6th out of 304 competitors in [2017](http://stats.ioinformatics.org/people/5794), Silver in [2015](http://stats.ioinformatics.org/people/5794), Bronze in [2016](http://stats.ioinformatics.org/people/5794)
 
-**Romanian Masters in Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2015 - 2017)_\
+**Romanian Masters in Mathematics**\
 Three gold medals ([2015](https://rmms.lbi.ro/rmm2015/index.php?id=results_math), [2016](https://rmms.lbi.ro/rmm2016/index.php?id=results_math), [2017](https://rmms.lbi.ro/rmm2017/index.php?id=results_math)), the best record in the history of this competition
 
 ## Work Experience
