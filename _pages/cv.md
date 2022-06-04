@@ -11,7 +11,7 @@ redirect_from:
 
 ### EDUCATION
 
-**Department of Statistics, University of Oxford**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2021 - Present)_\
+**Department of Statistics, University of Oxford**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2021 - Present)_\
 _DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
 First project: _Denoising Diffusion Models on Arbitrary State Spaces_, supervised by Arnaud Doucet and George Deligiannidis\
 Second project: _Infinite-width limits of neural networks_, supervised by Fran¸cois Caron
