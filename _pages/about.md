@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "About Me"
 excerpt: "Joe Benton"
 author_profile: true
 redirect_from: 
