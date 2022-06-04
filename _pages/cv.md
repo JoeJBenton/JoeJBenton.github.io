@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### EDUCATION
+## Education
 
 **Department of Statistics, University of Oxford**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2021 - Present)_\
 _DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
@@ -22,7 +22,7 @@ Graduated with a Distinction (6th out of c. 250 in year)\
 Thesis topic: Activated Random Walks, supervised by Perla Sousi\
 Fourth year courses: Advanced Probability, Topics in Statistical Theory, Percolation, Elliptic Curves, Local Fields, Stochastic Differential Equations, Random Planar Geometry
 
-### RESEARCH EXPERIENCE
+## Research Experience
 
 **Research Assistant**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(Summer 2021)_\
 _Centre for Human-Compatible Artificial Intelligence, University of California Berkeley_\
@@ -35,7 +35,7 @@ Supervisor: Dr Dhruv Ranganathan\
 Adapted methods of intersection theory due to Ravi Vakil for the calculation of characteristic numbers in order to
 produce more direct computations of intersection numbers on the projective plane and the torus.
 
-### AWARDS
+## Awards
 
 **Senior Scholarship, Trinity College**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2018 - 2020)_\
 For exceptional first year exam results, reawarded after second year
@@ -49,7 +49,7 @@ Gold, placing 6th out of 304 competitors in [2017](http://stats.ioinformatics.or
 **Romanian Masters in Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2015 - 2017)_\
 Three gold medals ([2015](https://rmms.lbi.ro/rmm2015/index.php?id=results_math), [2016](https://rmms.lbi.ro/rmm2016/index.php?id=results_math), [2017](https://rmms.lbi.ro/rmm2017/index.php?id=results_math)), the best record in the history of this competition
 
-### WORK EXPERIENCE
+## Work Experience
 
 **Research Intern**, _Charity Entrepreneurship_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(Spring 2020)_\
 Collaborated to research and write two reports on potential global health and development initiatives\
