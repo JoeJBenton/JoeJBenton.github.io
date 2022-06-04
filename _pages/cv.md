@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## EDUCATION
+## Education
 
 **Department of Statistics, University of Oxford**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(2021 - Present)_\
 _DPhil in Statistics (Modern Statistics and Statistical Machine Learning CDT)_\
@@ -21,7 +21,7 @@ _BA with MMath in Mathematics_\
 Graduated with a Distinction (6th out of c. 250 in year)\
 Thesis topic: Activated Random Walks, supervised by Perla Sousi
 
-## _Research Experience_
+## Research Experience
 
 **Research Assistant**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_(Summer 2021)_\
 _Centre for Human-Compatible Artificial Intelligence, University of California Berkeley_\
