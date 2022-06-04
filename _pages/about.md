@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Bio"
+<!-- title: "Brief Bio" -->
 excerpt: "Joe Benton"
 author_profile: true
 redirect_from: 
