@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-&NewLine;
-
 I'm a current PhD student in Statistics at the University of Oxford as part of the [StatML CDT](https://statml.io/), supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/). I'm currently working on generalising diffusion models to arbitrary state spaces, and on studying the gap in variational inference. Also interested in studying the inductive biases of neural networks.
 
 ## Publications
