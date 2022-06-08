@@ -16,4 +16,4 @@ Previously, I completed my undergraduate and master’s in mathematics at Trinit
 
 Alongside my research, I’m also involved in the [Effective Altruism](https://www.effectivealtruism.org/) movement. I coordinate the Oxford AI Safety Hub, which promotes the safe development of powerful artificial intelligence. While at Cambridge, I also helped found [Raise](https://www.joinraise.org/), a national student movement which has raised over £380,000 for the [Against Malaria Foundation](https://www.againstmalaria.com/) to date.
 
-In my spare time, you'll typically find me running through the fields around Oxford, playing the guitar (badly!), or reading. To get in touch, you can email me at benton@stats.ox.ac.uk.
+In my spare time, you'll typically find me running through the fields around Oxford, playing the guitar (badly!), or reading. To get in touch, you can email me at [benton@stats.ox.ac.uk](mailto@benton@stats.ox.ac.uk).
