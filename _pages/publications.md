@@ -21,7 +21,7 @@ During my first year of the CDT, I worked on a couple of research projects. The 
 
 ## Publications
 
-[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/...). Kamélia Daudel, **Joe Benton***, Yuyang Shi*, Arnaud Doucet. _arXiv preprint, arXiv:..._
+[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _arXiv preprint, arXiv:2210.06226_
 
 [Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
 
