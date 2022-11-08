@@ -21,11 +21,13 @@ During my first year of the CDT, I worked on a couple of research projects. The 
 
 ## Publications
 
+[From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2211.03595_
+
 [Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _arXiv preprint, arXiv:2210.06226_
 
 [Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
 
-[A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _arXiv preprint, arXiv:2205.14987_
+[A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _Advances in Neural Information Processing Systems, 2022_
 
 <!-- ## Talks
 
