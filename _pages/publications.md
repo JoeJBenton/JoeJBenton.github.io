@@ -15,11 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-I’m currently a PhD student in the Department of Statistics at the University of Oxford, studying as part of the [StatML CDT](https://statml.io/). I’m supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), and my work focuses on developing a theoretical understanding of generative modelling techniques, with a particular focus on diffusion models and variational autoencoders.
+I’m currently a PhD student in the Department of Statistics at the University of Oxford, as part of the [StatML CDT](https://statml.io/). I’m supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), and am working on generative modelling theory with a particular focus on diffusion models. I've previously studied generalizations of diffusion models to arbitrary state spaces, and am currently exploring performance guarantees for diffusion methods and related techinques.
 
-During my first year of the CDT, I worked on a couple of research projects. The first aimed to generalise denoising diffusion models to arbitrary state spaces, with particular applications to discrete spaces. The second focused on infinite-width limits of neural networks, and their use in studying the inductive biases and training dynamics of neural networks. Since then, I’ve also worked on variational and importance weighted autoencoders, investigating the properties of variational bound in high dimensions.
+I'm also interested in interpretability of machine learning systems (especially from a safety perspective) and continue to think about feature representation and automatic detection of sparse features in model activations. At Redwood Research, I worked on applications of interpretability techniques for mechanistic anomaly detection. 
 
 ## Publications
+
+[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860) **Joe Benton**, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2305.16860_
 
 [From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2211.03595_
 
