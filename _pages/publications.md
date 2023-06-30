@@ -21,7 +21,7 @@ I'm also interested in interpretability of machine learning systems (especially 
 
 ## Publications
 
-[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860) **Joe Benton**, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2305.16860_
+[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2305.16860_
 
 [From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2211.03595_
 
