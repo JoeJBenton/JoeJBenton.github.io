@@ -21,11 +21,13 @@ I'm also interested in interpretability of machine learning systems (especially 
 
 ## Publications
 
-[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2305.16860_
+[Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686). **Joe Benton**, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis. _arXiv preprint, arXiv2308.03686_. 
 
-[From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet, _arXiv preprint, arXiv:2211.03595_
+[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet. _arXiv preprint, arXiv:2305.16860_.
 
-[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _arXiv preprint, arXiv:2210.06226_
+[From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society, Series B_ (2023). To appear.
+
+[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _Journal of Machine Learning Research_ (2023). To appear.
 
 [Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
 
