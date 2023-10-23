@@ -21,6 +21,8 @@ I'm also interested in interpretability of machine learning systems (especially 
 
 ## Publications
 
+[Measuring Feature Sparsity in Language Models](https://arxiv.org/abs/2310.07837). Mingyang Deng, Lucas Tao, **Joe Benton**. _NeurIPS 2023 Workshop on Socially Responsible Language Modelling Research_
+
 [Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686). **Joe Benton**, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis. _arXiv preprint, arXiv2308.03686_. 
 
 [Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet. _arXiv preprint, arXiv:2305.16860_.
