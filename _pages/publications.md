@@ -15,9 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-I’m currently a PhD student in the Department of Statistics at the University of Oxford, as part of the [StatML CDT](https://statml.io/). I’m supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), and am working on generative modelling theory with a particular focus on diffusion models. I've previously studied generalizations of diffusion models to arbitrary state spaces, and am currently exploring performance guarantees for diffusion methods and related techinques.
-
-I'm also interested in interpretability of machine learning systems (especially from a safety perspective) and continue to think about feature representation and automatic detection of sparse features in model activations. At Redwood Research, I worked on applications of interpretability techniques for mechanistic anomaly detection. 
+I'm currently a member of technical staff on the Alignment Science team at [Anthropic](https://www.anthropic.com/), where I work on adversarial testing of large language models and think about how we might evaluate the alignment properties of very powerful ML systems. Previously, I was a PhD student in the [Department of Statistics](https://www.stats.ox.ac.uk/) at the University of Oxford, where I was supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and worked on the theory of diffusion models. I've also spent time with the [UK Frontier AI Taskforce](https://www.gov.uk/government/publications/frontier-ai-taskforce-second-progress-report) (now the UK AI Safety Institute) and remain excited about building government capacity to understand and regulate frontier AI systems.
 
 ## Publications
 
