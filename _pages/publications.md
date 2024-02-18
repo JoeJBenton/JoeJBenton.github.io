@@ -19,19 +19,19 @@ I'm currently a member of technical staff on the Alignment Science team at [Anth
 
 ## Publications
 
-[Measuring Feature Sparsity in Language Models](https://arxiv.org/abs/2310.07837). Mingyang Deng, Lucas Tao, **Joe Benton**. _NeurIPS 2023 Workshop on Socially Responsible Language Modelling Research_
+[From Denoising Diffusions to Denoising Markov Models](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae005/7564909). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society Series B: Statistical Methodology_, 2024.
 
-[Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686). **Joe Benton**, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis. _arXiv preprint, arXiv2308.03686_. 
+[Nearly d-Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686). **Joe Benton**, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis. _International Conference on Learning Representations_, 2024.
 
-[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet. _arXiv preprint, arXiv:2305.16860_.
+[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet. _Transactions on Machine Learning Research_, February 2024.
 
-[From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society, Series B_, 2023. To appear.
+[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://www.jmlr.org/papers/volume24/22-1160/22-1160.pdf). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _Journal of Machine Learning Research_, 24(243):1−83, 2023.
 
-[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _Journal of Machine Learning Research_, 24(243):1−83, 2023.
+[Measuring Feature Sparsity in Language Models](https://arxiv.org/abs/2310.07837). Mingyang Deng, Lucas Tao, **Joe Benton**. _NeurIPS 2023 Workshop on Socially Responsible Language Modelling Research_, 2023.
 
-[Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
+[A Continuous Time Framework for Discrete Denoising Models](https://papers.nips.cc/paper_files/paper/2022/hash/b5b528767aa35f5b1a60fe0aaeca0563-Abstract-Conference.html). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _Advances in Neural Information Processing Systems_, 2022.
 
-[A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _Advances in Neural Information Processing Systems, 2022_
+[Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_, 2022.
 
 <!-- ## Talks
 
