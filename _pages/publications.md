@@ -19,6 +19,8 @@ I'm currently a member of technical staff on the Alignment Science team at [Anth
 
 ## Publications
 
+[Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking). Cem Anil, Esin Durmus, Mrinank Sharma, **Joe Benton**, Sandipan Kundu, Joshua Batson, Nina Rimsky, Meg Tong, Jesse Mu, Daniel Ford, Francesco Mosconi et al. _Anthropic Blog_, 2024.
+
 [From Denoising Diffusions to Denoising Markov Models](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae005/7564909). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society Series B: Statistical Methodology_, 86(2):286−301, 2024.
 
 [Nearly d-Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686). **Joe Benton**, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis. _International Conference on Learning Representations_, 2024.
