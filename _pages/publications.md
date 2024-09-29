@@ -19,9 +19,9 @@ I'm currently a member of technical staff on the Alignment Science team at [Anth
 
 ## Publications
 
-[Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking). Cem Anil, Esin Durmus, Mrinank Sharma, **Joe Benton**, Sandipan Kundu, Joshua Batson, Nina Rimsky, Meg Tong, Jesse Mu, Daniel Ford, et al. _Advances in Neural Information Processing Systems_, 2024.
+[Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking). Cem Anil, Esin Durmus, Mrinank Sharma, **Joe Benton**, Sandipan Kundu, Joshua Batson, Nina Rimsky, Meg Tong, Jesse Mu, Daniel Ford et al. _Advances in Neural Information Processing Systems_, 2024.
 
-[When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?](https://arxiv.org/abs/2407.15211). Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, **Joe Benton**, Brando Miranda, Henry Sleight, John Hughes, et al. _arXiv preprint arXiv:2407.15211_, 2024.
+[When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?](https://arxiv.org/abs/2407.15211). Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, **Joe Benton**, Brando Miranda, Henry Sleight, John Hughes et al. _arXiv preprint arXiv:2407.15211_, 2024.
 
 [From Denoising Diffusions to Denoising Markov Models](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkae005/7564909). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society Series B: Statistical Methodology_, 86(2):286−301, 2024.
 
