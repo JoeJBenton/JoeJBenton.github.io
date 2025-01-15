@@ -29,7 +29,7 @@ If you're highly motivated to help make transformative AI go well, have a backgr
 
 ## Publications
 
-[Sabotage Evaluations for Frontier Models](https://arxiv.org/abs/2410.21514). Joe Benton, Misha Wagner, Eric Christiansen, Cem Anil, Ethan Perez, Jai Srivastav, Esin Durmus, Deep Ganguli, Shauna Kravec, Buck Shlegeris et al. _arXiv preprint arXiv:2410.21514_, 2024.
+[Sabotage Evaluations for Frontier Models](https://arxiv.org/abs/2410.21514). **Joe Benton**, Misha Wagner, Eric Christiansen, Cem Anil, Ethan Perez, Jai Srivastav, Esin Durmus, Deep Ganguli, Shauna Kravec, Buck Shlegeris et al. _arXiv preprint arXiv:2410.21514_, 2024.
 
 [When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?](https://arxiv.org/abs/2407.15211). Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, **Joe Benton**, Brando Miranda, Henry Sleight, John Hughes et al. _arXiv preprint arXiv:2407.15211_, 2024.
 
