@@ -21,9 +21,9 @@ I'm currently a member of technical staff on the Alignment Science team at [Anth
 
 I'm currently looking for potential collaborators on two projects:
 
-- [Building a High-Quality Control Dataset]([url](https://docs.google.com/document/d/1okUYcfjSxkzptbMYb-5ABqz-Lg-lwLrKC0QhlQN9_6s/edit?tab=t.0#heading=h.kp1dywkdwlm6))
+- [Building a High-Quality Control Dataset](https://docs.google.com/document/d/1okUYcfjSxkzptbMYb-5ABqz-Lg-lwLrKC0QhlQN9_6s/edit?tab=t.0#heading=h.kp1dywkdwlm6)
 
-- [Eliciting and Measuring Steganography]([url](https://docs.google.com/document/d/1GqrBIc6DIzarfADWSbsvDvG_GUag40OV88sx3BSljxM/edit?tab=t.0#heading=h.t4phonbuw8f1))
+- [Eliciting and Measuring Steganography](https://docs.google.com/document/d/1GqrBIc6DIzarfADWSbsvDvG_GUag40OV88sx3BSljxM/edit?tab=t.0#heading=h.t4phonbuw8f1)
 
 If you're highly motivated to help make transformative AI go well, have a background in empirical ML research, AI control or dataset curation, and want to work on these projects, reach out to me at joe [at] anthropic [dot] com with a description of your interests, or consider applying to the [Anthropic Safety Fellowship](https://alignment.anthropic.com/2024/anthropic-fellows-program/).
 
