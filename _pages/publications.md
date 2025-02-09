@@ -29,9 +29,11 @@ If you're highly motivated to help make transformative AI go well, have a backgr
 
 ## Publications
 
+[Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](https://www.anthropic.com/research/constitutional-classifiers). Mrinank Sharma, Meg Tong, Jesse Mu, Jerry Wei, Jorrit Kruthoff, Scott Goodfriend, Euan Ong, Alwin Peng, Raj Agarwal, Cem Anil, Amanda Askell, Nathan Bailey, **Joe Benton**, Emma Bluemke, et al. _arXiv preprint arXiv:2501.18837_, 2025.
+
 [Sabotage Evaluations for Frontier Models](https://arxiv.org/abs/2410.21514). **Joe Benton**, Misha Wagner, Eric Christiansen, Cem Anil, Ethan Perez, Jai Srivastav, Esin Durmus, Deep Ganguli, Shauna Kravec, Buck Shlegeris et al. _arXiv preprint arXiv:2410.21514_, 2024.
 
-[When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?](https://arxiv.org/abs/2407.15211). Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, **Joe Benton**, Brando Miranda, Henry Sleight, John Hughes et al. _arXiv preprint arXiv:2407.15211_, 2024.
+[When Do Universal Image Jailbreaks Transfer Between Vision-Language Models?](https://arxiv.org/abs/2407.15211). Rylan Schaeffer, Dan Valentine, Luke Bailey, James Chua, Cristóbal Eyzaguirre, Zane Durante, **Joe Benton**, Brando Miranda, Henry Sleight, John Hughes et al. _NeurIPS 2024 Workshop on Responsibly Building the Next Generation of Multimodal Foundational Models_, 2024.
 
 [Many-shot Jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking). Cem Anil, Esin Durmus, Mrinank Sharma, **Joe Benton**, Sandipan Kundu, Joshua Batson, Nina Rimsky, Meg Tong, Jesse Mu, Daniel Ford et al. _Advances in Neural Information Processing Systems_, 2024.
 
