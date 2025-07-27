@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ywp_eYsAAAAJ"
-  email            : "benton@stats.ox.ac.uk"
+  email            : # "benton@stats.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
