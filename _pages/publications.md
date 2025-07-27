@@ -17,16 +17,6 @@ author_profile: true
 
 I'm currently a member of technical staff on the Alignment Science team at [Anthropic](https://www.anthropic.com/), where I lead the scalable oversight team. In my time at Anthropic, I've also worked on model organisms of misalignment, chain-of-thought monitoring and control evaluations. Previously, I was a PhD student in the [Department of Statistics](https://www.stats.ox.ac.uk/) at the University of Oxford, where I was supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/) and worked on the theory of diffusion models. I've also spent time with the [UK Frontier AI Taskforce](https://www.gov.uk/government/publications/frontier-ai-taskforce-second-progress-report) (now the UK AI Safety Institute) and remain excited about building government capacity to understand and regulate frontier AI systems.
 
-## Projects
-
-I'm currently looking for potential collaborators on two projects:
-
-- [Building a High-Quality Control Dataset](https://docs.google.com/document/d/1okUYcfjSxkzptbMYb-5ABqz-Lg-lwLrKC0QhlQN9_6s/edit?tab=t.0#heading=h.kp1dywkdwlm6)
-
-- [Eliciting and Measuring Steganography](https://docs.google.com/document/d/1GqrBIc6DIzarfADWSbsvDvG_GUag40OV88sx3BSljxM/edit?tab=t.0#heading=h.t4phonbuw8f1)
-
-If you're highly motivated to help make transformative AI go well, have a background in empirical ML research, AI control or dataset curation, and want to work on these projects, reach out to me at joe [at] anthropic [dot] com with a description of your interests, or consider applying to the [Anthropic Safety Fellowship](https://alignment.anthropic.com/2024/anthropic-fellows-program/).
-
 ## Publications
 
 [SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents](https://arxiv.org/abs/2506.15740). Jonathan Kutasov, Yuqi Sun, Paul Colognese, Teun van der Weij, Linda Petrini, Chen Bo Calvin Zhang, John Hughes, Xiang Deng, Henry Sleight, Tyler Tracy, Buck Shlegeris, **Joe Benton**. *arXiv preprint arXiv:2506.15740*, 2025.
