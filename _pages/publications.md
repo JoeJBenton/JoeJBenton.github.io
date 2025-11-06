@@ -19,6 +19,10 @@ I currently help to manage the scalable oversight team at [Anthropic](https://ww
 
 ## Publications
 
+[Optimizing AI Agent Attacks With Synthetic Data](https://arxiv.org/abs/2511.02823). Chloe Loughridge, Paul Colognese, Avery Griffin, Tyler Tracy, Jon Kutasov, **Joe Benton**. *arXiv preprint arXiv:2511.02823*, 2025.
+
+[Evaluating Control Protocols for Untrusted AI Agents](https://arxiv.org/abs/2511.02997). Jon Kutasov, Chloe Loughridge, Yuqi Sun, Henry Sleight, Buck Shlegeris, Tyler Tracy, **Joe Benton**. *arXiv preprint arXiv:2511.02997*, 2025.
+
 [SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents](https://arxiv.org/abs/2506.15740). Jonathan Kutasov, Yuqi Sun, Paul Colognese, Teun van der Weij, Linda Petrini, Chen Bo Calvin Zhang, John Hughes, Xiang Deng, Henry Sleight, Tyler Tracy, Buck Shlegeris, **Joe Benton**. *arXiv preprint arXiv:2506.15740*, 2025.
 
 [Reasoning Models Don't Always Say What They Think](https://arxiv.org/abs/2505.05410). Yanda Chen, **Joe Benton**, Ansh Radhakrishnan, Jonathan Uesato, Carson Denison, John Schulman, Arushi Somani, Peter Hase, Misha Wagner, Fabien Roger, Vlad Mikulik, Samuel R. Bowman, Jan Leike, Jared Kaplan, Ethan Perez. *arXiv preprint arXiv:2505.05410*, 2025.
